@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-f#f1aux9-()hff17qpc-n=z!@e=8*50e6*7v1byd6znmsx!^pc
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'shiny-doodle-7xxwq7wvq53xp4w-8000.app.github.dev']
 
 
 # Application definition
